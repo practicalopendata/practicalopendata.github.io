@@ -3,7 +3,7 @@ layout: post
 title: need new approach for open data and machine learning
 description: Open data, and the ability to collaborate around open data, is critical for machine learning. However the legal uncertainties around the current frameworks for open data are too important for engineers and data scientists to use data to innovate with sufficient legal clarity and security.
 date: 2021-05-26
-tags: open data, open source, machine learning
+tags: open-data open-source machine-learning
 comment_issue_id: 2
 image: /img/christopher-burns-Kj2SaNHG-hg-unsplash.jpg
 ---
