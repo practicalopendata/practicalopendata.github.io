@@ -5,11 +5,12 @@ description: Open data, and the ability to collaborate around open data, is crit
 date: 2021-05-26
 tags: open data, open source, machine learning
 comment_issue_id: 2
-image: img/christopher-burns-Kj2SaNHG-hg-unsplash.jpg
+image: /img/christopher-burns-Kj2SaNHG-hg-unsplash.jpg
 ---
 
 # Open data and machine learning – we need a new approach
 
+![lights](/img/christopher-burns-Kj2SaNHG-hg-unsplash.jpg)
 
 Open data, and the ability to collaborate around open data, is critical for machine learning. However the legal uncertainties around the current frameworks for open data are too important for engineers and data scientists to use data to innovate with sufficient legal clarity and security. To illustrate this point, let’s imagine a conversation between Sarah, a data scientist, and Dwayne, her legal contact, about a fairly typical use of open data for machine learning. 
 
