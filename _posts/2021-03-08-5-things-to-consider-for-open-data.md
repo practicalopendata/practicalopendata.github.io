@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 things to consider when dealing with open data
+title: 5 things to consider for open data
 description: Open data holds the promise of closing the “data divide” and empowering everyone to innovate using data in a more transparent and responsible way. In this blog we explore 5 legal considerations to help realize the benefits of open data.
 date: 2021-03-08 21:00:00 -0500
 tags: open data
