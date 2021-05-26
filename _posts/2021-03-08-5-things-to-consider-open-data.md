@@ -1,7 +1,6 @@
 # 5 things to consider when dealing with open data
 
-
-![](_images/1615230393614.jpg)
+[](_images/1615230393614.jpg?raw=true)
 
 Open data holds the promise of [closing the “data divide”](https://news.microsoft.com/opendata/) and empowering everyone to innovate using data in a more transparent and responsible way. Even as important strides are made to share data more broadly and openly, questions remain that may slow the use of such data. To help realize the benefits of open data, I explore 5 considerations when using open data.
 
