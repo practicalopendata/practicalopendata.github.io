@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Open data is increasingly critical to machine learning and data innovation. This blog shares some thoughts on practical legal issues around open data from the trenches. We'll explore issues related to open data per se, but also look at the applicaetion of open data to machine learning and other domains of innovation.
